@@ -1,6 +1,6 @@
 # Ayush Nanda
 
-Profile
+Greetings. 
 
 ## Programming Languages
 
